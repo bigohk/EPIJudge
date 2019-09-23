@@ -26,7 +26,8 @@ public class CalendarRendering {
   }
 
   @EpiTest(testDataFile = "calendar_rendering.tsv")
-
+  // Write a program that takes a set of Events and determines the maximum number of events that
+  // can take place concurrently
   public static int findMaxSimultaneousEvents(List<Event> A) {
     // TODO - you fill in here.
     return 0;
